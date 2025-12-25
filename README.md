@@ -1,6 +1,6 @@
 # Hi, I'm Raaed 👋
 
-I build and operate **reliable systems** — from application code to cloud infrastructure.
+I build and operate **reliable systems** from application code to cloud infrastructure.
 
 I care about:
 - Systems that scale and fail gracefully
@@ -45,14 +45,6 @@ I care about:
 - Secrets management (Vault)
 - Dependency & image scanning
 - Compliance-driven hardening
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raaedserag&show_icons=true&count_private=true&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaedserag&layout=compact" height="165" />
-</p>
-
 ---
 
 ## 🌱 Currently Exploring
